@@ -11,7 +11,7 @@ use grupo2::{StackMin, Navegador, Editor};
 
 fn main() {
     println!("====================================================");
-    println!("ATIVIDADE TDAs LINEARES - ESTRUTURAS DE DADOS E ALGORITMOS");
+    println!("ATIVIDADE TADs LINEARES - ESTRUTURAS DE DADOS E ALGORITMOS");
     println!("====================================================\n");
 
     // --- GRUPO 1: VEC E OPERAÇÕES BÁSICAS ---
